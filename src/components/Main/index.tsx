@@ -3,7 +3,7 @@ import * as S from './styles';
 
 const Main = ({
   title = 'Great Boilerplate!',
-  description = 'NextJs, ReactJs, TypeScript, Eslint, Prettier, Styled components,Test library,Cypress, Husky, Lint staged, Storybook',
+  description = 'NextJs, ReactJs, TypeScript, Eslint, Prettier, Styled components,Test library, Husky, Lint staged, Storybook',
   author = 'João Victor Lobão',
 }) => (
   <S.Wrapper>

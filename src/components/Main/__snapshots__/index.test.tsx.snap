@@ -17,7 +17,7 @@ exports[`<Main /> should render the heading 1`] = `
   <h3
     class="sc-hKFxyN lgZNsR"
   >
-    NextJs, ReactJs, TypeScript, Eslint, Prettier, Styled components,Test library,Cypress, Husky, Lint staged, Storybook
+    NextJs, ReactJs, TypeScript, Eslint, Prettier, Styled components,Test library, Husky, Lint staged, Storybook
   </h3>
   <div
     class="sc-eCApnc cgWuHY"
