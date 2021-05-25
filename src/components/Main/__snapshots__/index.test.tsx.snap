@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Main /> should render the heading 1`] = `
+<main
+  class="sc-bdnxRM hPiJmr"
+>
+  <img
+    alt="Bo, boilerplate graphic art"
+    class="sc-gtsrHT kfulkT"
+    src="/img/Logo.svg"
+  />
+  <h1
+    class="sc-dlnjwi iAWOCh"
+  >
+    Great Boilerplate!
+  </h1>
+  <h3
+    class="sc-hKFxyN lgZNsR"
+  >
+    NextJs, ReactJs, TypeScript, Eslint, Prettier, Styled components,Test library,Cypress, Husky, Lint staged, Storybook
+  </h3>
+  <div
+    class="sc-eCApnc cgWuHY"
+  >
+    <img
+      alt="GitHub image"
+      class="sc-jSFjdj kgyLI"
+      src="/img/GithubImg.svg"
+    />
+    <span
+      class="sc-gKAaRy kLGZYt"
+    >
+      GitHub
+    </span>
+  </div>
+  <div
+    class="sc-iCoGMd dqloiT"
+  >
+    <img
+      alt="Linkedin image"
+      class="sc-fujyAs eqCsdt"
+      src="/img/LinkedinImg.svg"
+    />
+    <span
+      class="sc-pNWdM fJoMZW"
+    >
+      Linkedin
+    </span>
+  </div>
+  <h4
+    class="sc-jrsJWt gFbCNB"
+  >
+    Created by 
+    João Victor Lobão
+  </h4>
+</main>
+`;

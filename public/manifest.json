@@ -1,0 +1,16 @@
+{
+"name": "Great Boilerplate!",
+"short_name":"Boilerplate",
+"icons": [
+  {
+    "src": "/img/favicon.svg",
+    "type": "image/svg"
+  }
+],
+
+"background_color": "#19191c",
+"description": "Boilerplate utilizando várias tecnologias",
+"display": "fullscreen",
+"start_url": "/",
+"theme_color": "#19191c"
+}
